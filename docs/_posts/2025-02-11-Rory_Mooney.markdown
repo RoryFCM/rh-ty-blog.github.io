@@ -55,16 +55,13 @@ Unfortunately I was not able to come into the office on this day. My sickness wa
 
 **Day 3**.
 
-I came back in today after my absent day from yesterday, i came in at about 9AM this morning... will continue soon
+I came back in today after my absent day from yesterday, i came in at about 9AM this morning and we had a stand up meeting, then we were seperated into 2 groups to make a rollercoaster that had to include a loop. My group lost and we did not complete it in time, we took our lunch and i played Rhys and Ben in pool, I beat the both of them at it. After the lunch break we went into another team building activity, one that you had to get a marshmellow at the highest point off the table. My group won that one twice.
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+**Summary of the day in bullet points
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
-
-
----
+* Rollercoaster team activity. 
+* Winning two Pool matches. 
+* Marshmellow team building. 
 
 
 ## Thursday
@@ -75,7 +72,7 @@ Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapib
 
 ![Terminal](https://helpdeskgeek.com/wp-content/pictures/2023/01/preview-media-0-Title-Image.jpg "Terminal")
 
-**This is the text area where you can enter your blog details for Thursday**.
+**Day 4**.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
 
